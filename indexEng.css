@@ -19,14 +19,15 @@ body{
   height: 100vh;
   /* background-image: linear-gradient( 135deg, #FAB2FF 10%, #1904E5 100%); */
   background-image: linear-gradient( 135deg, #FFE985 10%, #FA742B 100%);
-  /* background-size: cover; */
+  background-size: cover;
+  background-attachment: fixed;
   font-family: 'Nanum Pen Script', cursive;
   /* color: #000; */
 }
 .fullContainer{
   display: block;
-  /* margin: 0;
-  padding: 0; */
+  margin: 0;
+  padding-bottom: 10%;
 }
 
 
